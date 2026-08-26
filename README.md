@@ -24,6 +24,16 @@ Este projeto consiste em um dashboard analítico focado em **Supply Chain, Logí
 * **Faturamento por Categoria & Cidade**: Identificação dos principais mercados consumidores e produtos líderes em vendas.
 
 ---
+## 📊 Insights & Diagnóstico de Negócio
+
+### 🚚 Gargalos Logísticos em Praças Críticas
+- **Polo de Volume (Caguas):** Concentra a maior fatia do faturamento, mas sofre com ineficiências operacionais que colocam a receita principal em risco.
+- **Centros Estratégicos (Chicago e New York):** Altas taxas de atraso em grandes metrópoles prejudicam a percepção de marca e a retenção de clientes em mercados de alta visibilidade.
+- **Plano de Ação Sugerido:** Reestruturar contratos de frete regional e estabelecer SLAs unificados de entrega para praças estratégicas.
+
+### 📉 Análise de Tendência (2017 - 2018)
+- **Declínio Acentuado:** Observa-se uma queda drástica no volume de faturamento a partir de 2017, atingindo os menores patamares em janeiro de 2018.
+- **Causa Raiz:** A taxa global de atrasos de **54,83%** gerou perda progressiva de clientes recorrentes, impactando diretamente o LTV e o faturamento total da operação.
 
 ## 📁 Estrutura do Repositório
 ```text
