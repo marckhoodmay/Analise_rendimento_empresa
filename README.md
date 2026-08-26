@@ -1,7 +1,7 @@
 # 📊 Supply Chain & Logistics Analytics Dashboard
 
-![Dashboard Preview(https://github.com/user-attachments/assets/cc7873c3-cb5b-4c22-a329-fc7a4a6ab3e8
-)
+(![Dashboard Preview](https://github.com/user-attachments/assets/cc7873c3-cb5b-4c22-a329-fc7a4a6ab3e8)
+
 
 ## 📌 Visão Geral do Projeto
 Este projeto consiste em um dashboard analítico focado em **Supply Chain, Logística e Performance de Vendas**, desenvolvido no Power BI. O objetivo principal é monitorar os principais KPIs operacionais e financeiros para apoiar a tomada de decisão estratégica em logística e distribuição.
