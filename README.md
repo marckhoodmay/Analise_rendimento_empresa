@@ -1,5 +1,5 @@
 # 📊 Supply Chain & Logistics Analytics Dashboard
-
+## 📸 Resultado Final
 ![Dashboard Preview](https://github.com/user-attachments/assets/cc7873c3-cb5b-4c22-a329-fc7a4a6ab3e8)
 
 
